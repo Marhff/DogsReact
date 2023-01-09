@@ -25,7 +25,7 @@
 .textarea:focus,
 .textarea:hover {
   outline: none;
-  border-color: #fb1;
+  border-color: #62dafb;
   background: white;
   box-shadow: 0 0 0 3px #fea;
 }
@@ -48,7 +48,7 @@
 .button:focus svg path,
 .button:hover svg path {
   fill: #fea;
-  stroke: #fb1;
+  stroke: #62dafb;
 }
 
 .button:focus svg g,

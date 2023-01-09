@@ -31,11 +31,11 @@
 .nav :global(a.active) {
   background: white;
   box-shadow: 0 0 0 3px #fea;
-  border-color: #fb1;
+  border-color: #62dafb;
 }
 
 .nav :global(a.active) svg > * {
-  fill: #fb1;
+  fill: #62dafb;
 }
 
 .mobileButton {
@@ -69,8 +69,8 @@
   outline: none;
   background: white;
   box-shadow: 0 0 0 3px #fea;
-  border-color: #fb1;
-  color: #fb1;
+  border-color: #62dafb;
+  color: #62dafb;
 }
 
 .mobileButtonActive::after {
@@ -116,7 +116,7 @@
 
 .navMobile a:hover svg > *,
 .navMobile button:hover svg > * {
-  fill: #fb1;
+  fill: #62dafb;
 }
 
 .navMobile button {

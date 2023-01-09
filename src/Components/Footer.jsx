@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer className={style.footer}>
       <DogsFooterSvg />
-      <p>Dogs. Alguns direitos reservados.</p>
+      <p>Cats. Alguns direitos reservados.</p>
     </footer>
   );
 };
